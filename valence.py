@@ -11,6 +11,7 @@ import logging
 name = 'roshan'
 age = 30
 case = 12
+RANK = 1
 
 print(f"my name is {name} and "
       f"my age is {age}")
