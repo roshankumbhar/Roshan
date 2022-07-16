@@ -13,8 +13,8 @@ age = 30
 case = 12
 RANK = 1
 
-print(f"my name is {name} and "
-      f"my age is {age}")
+print(f"my name is {'name'}={name} and "
+      f"my age is {'age'}={age}")
 
 print('my name is %s and my age is %s'
       % (name, age))

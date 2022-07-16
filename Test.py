@@ -1,7 +1,7 @@
 """Calculator"""
 
 # Either import module
-from calc import *
+from pytest.calc import *
 
 a = int(input("Enter First Number: "))
 b = int(input("Enter second Number: "))
